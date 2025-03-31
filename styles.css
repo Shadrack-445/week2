@@ -1,0 +1,38 @@
+body{
+    background-image:url(background.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+}
+h1{
+    color: chartreuse;
+    size:bolder;
+}
+.p1{
+    color: cornflowerblue;
+    font-size: larger;
+}
+.p2{
+    color: aqua;
+}
+p{
+    color:limegreen;
+}
+li{
+    color: aliceblue;
+}
+#home{
+    color: azure;
+}
+#about{
+    color: azure;
+}
+#contact{
+    color: azure;
+}
+
+
+
